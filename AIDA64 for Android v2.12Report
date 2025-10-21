@@ -1,0 +1,1332 @@
+<<< System >>>
+
+Manufacturer: Freeski
+Model: C109
+Brand: Freeski
+Board: exdroid
+Device: C109
+Hardware: sun55iw3p1
+Platform: saturn
+Product: C109
+Installed RAM: 4 GB
+Total Memory: 3727 MB
+Available Memory: 1276 MB
+Internal Storage Total Space: 112.47 GB
+Internal Storage Free Space: 88.66 GB
+Bluetooth Version: 4+
+Device Features: android.hardware.audio.output
+android.hardware.bluetooth
+android.hardware.bluetooth_le
+android.hardware.camera
+android.hardware.camera.any
+android.hardware.camera.autofocus
+android.hardware.camera.flash
+android.hardware.camera.front
+android.hardware.ethernet
+android.hardware.faketouch
+android.hardware.hardware_keystore
+android.hardware.keystore.app_attest_key
+android.hardware.location
+android.hardware.location.network
+android.hardware.microphone
+android.hardware.opengles.aep
+android.hardware.ram.normal
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.security.model.compatible
+android.hardware.sensor.accelerometer
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.accessory
+android.hardware.usb.host
+android.hardware.vulkan.compute
+android.hardware.vulkan.level
+android.hardware.vulkan.version
+android.hardware.wifi
+android.hardware.wifi.direct
+android.hardware.wifi.passpoint
+android.software.activities_on_secondary_displays
+android.software.adoptable_storage
+android.software.app_enumeration
+android.software.app_widgets
+android.software.autofill
+android.software.backup
+android.software.cant_save_state
+android.software.companion_device_setup
+android.software.connectionservice
+android.software.controls
+android.software.credentials
+android.software.cts
+android.software.device_admin
+android.software.device_id_attestation
+android.software.device_lock
+android.software.erofs
+android.software.file_based_encryption
+android.software.freeform_window_management
+android.software.home_screen
+android.software.incremental_delivery
+android.software.input_methods
+android.software.ipsec_tunnels
+android.software.live_wallpaper
+android.software.managed_users
+android.software.midi
+android.software.opengles.deqp.level
+android.software.picture_in_picture
+android.software.print
+android.software.secure_lock_screen
+android.software.securely_removes_users
+android.software.verified_boot
+android.software.voice_recognizers
+android.software.vulkan.deqp.level
+android.software.webview
+android.software.window_magnification
+com.google.android.feature.ASI
+com.google.android.feature.D2D_CABLE_MIGRATION_FEATURE
+com.google.android.feature.GMSEXPRESS_PLUS_BUILD
+com.google.android.feature.PERSONAL_SAFETY
+com.google.android.feature.TURBO_PRELOAD
+com.google.android.feature.WELLBEING
+
+<<< CPU >>>
+
+SoC Model: Allwinner A523
+Core Architecture: 8x ARM Cortex-A55 @ 1800 MHz
+Manufacturing Process: 22 nm
+Instruction Set: 64-bit ARMv8-A
+CPU Revision: r2p0
+CPU Cores: 8
+CPU Clock Range: 408 - 1800 MHz
+Core 1 Clock: 936 MHz
+Core 2 Clock: 936 MHz
+Core 3 Clock: 936 MHz
+Core 4 Clock: 936 MHz
+Core 5 Clock: 840 MHz
+Core 6 Clock: 840 MHz
+Core 7 Clock: 840 MHz
+Core 8 Clock: 840 MHz
+Supported ABIs: arm64-v8a, armeabi-v7a, armeabi
+Supported 32-bit ABIs: armeabi-v7a, armeabi
+Supported 64-bit ABIs: arm64-v8a
+AES: Supported
+ASIMD/NEON: Supported
+PMULL: Supported
+SHA1: Supported
+SHA2: Supported
+
+<<< Display >>>
+
+Screen Resolution: 800 × 1280
+Screen Size: 136 mm × 219 mm
+Screen Diagonal: 10.15 inches
+Pixel Density: 149 dpi (mdpi)
+xdpi / ydpi: 150 / 148 dpi
+GPU Vendor: ARM
+GPU Renderer: Mali-G57
+Refresh Rate: 60 Hz
+Default Orientation: Landscape
+OpenGL ES Version: 3.2
+GPU Version: OpenGL ES 3.2 v1.r48p0-01eac0.00ad2b4969117ece833b5dc8fabce9ed
+OpenGL ES Extensions: GL_EXT_debug_marker
+GL_ARM_rgba8
+GL_ARM_mali_shader_binary
+GL_ARM_debug_assert
+GL_OES_depth24
+GL_OES_depth_texture
+GL_OES_depth_texture_cube_map
+GL_OES_packed_depth_stencil
+GL_OES_rgb8_rgba8
+GL_EXT_read_format_bgra
+GL_OES_compressed_paletted_texture
+GL_OES_compressed_ETC1_RGB8_texture
+GL_OES_standard_derivatives
+GL_OES_EGL_image
+GL_OES_EGL_image_external
+GL_OES_EGL_image_external_essl3
+GL_OES_EGL_sync
+GL_OES_texture_npot
+GL_OES_vertex_half_float
+GL_OES_required_internalformat
+GL_OES_vertex_array_object
+GL_OES_mapbuffer
+GL_EXT_texture_format_BGRA8888
+GL_EXT_texture_rg
+GL_EXT_texture_type_2_10_10_10_REV
+GL_OES_fbo_render_mipmap
+GL_OES_element_index_uint
+GL_EXT_shadow_samplers
+GL_OES_texture_compression_astc
+GL_KHR_texture_compression_astc_ldr
+GL_KHR_texture_compression_astc_hdr
+GL_KHR_texture_compression_astc_sliced_3d
+GL_EXT_texture_compression_astc_decode_mode
+GL_EXT_texture_compression_astc_decode_mode_rgb9e5
+GL_KHR_debug
+GL_EXT_occlusion_query_boolean
+GL_EXT_disjoint_timer_query
+GL_EXT_blend_minmax
+GL_EXT_discard_framebuffer
+GL_OES_get_program_binary
+GL_OES_texture_3D
+GL_EXT_texture_storage
+GL_EXT_multisampled_render_to_texture
+GL_EXT_multisampled_render_to_texture2
+GL_OES_surfaceless_context
+GL_OES_texture_stencil8
+GL_EXT_shader_pixel_local_storage
+GL_ARM_shader_framebuffer_fetch
+GL_ARM_shader_framebuffer_fetch_depth_stencil
+GL_ARM_mali_program_binary
+GL_EXT_sRGB
+GL_EXT_sRGB_write_control
+GL_EXT_texture_sRGB_decode
+GL_EXT_texture_sRGB_R8
+GL_EXT_texture_sRGB_RG8
+GL_KHR_blend_equation_advanced
+GL_KHR_blend_equation_advanced_coherent
+GL_OES_texture_storage_multisample_2d_array
+GL_OES_shader_image_atomic
+GL_EXT_robustness
+GL_EXT_draw_buffers_indexed
+GL_OES_draw_buffers_indexed
+GL_EXT_texture_border_clamp
+GL_OES_texture_border_clamp
+GL_EXT_texture_cube_map_array
+GL_OES_texture_cube_map_array
+GL_OES_sample_variables
+GL_OES_sample_shading
+GL_OES_shader_multisample_interpolation
+GL_EXT_shader_io_blocks
+GL_OES_shader_io_blocks
+GL_EXT_tessellation_shader
+GL_OES_tessellation_shader
+GL_EXT_primitive_bounding_box
+GL_OES_primitive_bounding_box
+GL_EXT_geometry_shader
+GL_OES_geometry_shader
+GL_ANDROID_extension_pack_es31a
+GL_EXT_gpu_shader5
+GL_OES_gpu_shader5
+GL_EXT_texture_buffer
+GL_OES_texture_buffer
+GL_EXT_copy_image
+GL_OES_copy_image
+GL_EXT_shader_non_constant_global_initializers
+GL_EXT_color_buffer_half_float
+GL_EXT_unpack_subimage
+GL_EXT_color_buffer_float
+GL_EXT_float_blend
+GL_EXT_YUV_target
+GL_OVR_multiview
+GL_OVR_multiview2
+GL_OVR_multiview_multisampled_render_to_texture
+GL_KHR_robustness
+GL_KHR_robust_buffer_access_behavior
+GL_EXT_draw_elements_base_vertex
+GL_OES_draw_elements_base_vertex
+GL_EXT_protected_textures
+GL_EXT_buffer_storage
+GL_EXT_external_buffer
+GL_EXT_EGL_image_array
+GL_EXT_clear_texture
+GL_ARM_shader_core_properties
+GL_EXT_texture_filter_anisotropic
+GL_OES_texture_float_linear
+GL_ARM_texture_unnormalized_coordinates
+GL_EXT_shader_framebuffer_fetch
+GL_EXT_clip_control
+GL_EXT_polygon_offset_clamp
+
+<<< Network >>>
+
+<< Telephony >>
+Phone Type: None
+
+<< Wi-Fi >>
+State: Enabled
+SSID: <unknown ssid>
+BSSID: 02:00:00:00:00:00
+Hidden SSID: No
+IPv4 Address: 192.168.0.227
+IPv6 Address: fe80::c08:4fff:fee9:3812
+Signal Strength: -28 dBm (Excellent)
+Link Speed: 65 Mbps
+Frequency: 2412 MHz
+Gateway: 192.168.0.1
+Netmask: 255.255.255.0
+DNS1: 192.168.0.1
+DNS2: 192.168.0.1
+DHCP Lease Duration: 2 hours
+5 GHz Band: Supported
+Wi-Fi Aware: Not Supported
+Wi-Fi Direct: Supported
+
+<<< Battery >>>
+
+Power Source: USB Port
+Level: 81 %
+Status: Charging
+Health: Good
+Temperature: 30.4°C
+Voltage: 4.030 V
+Charge Counter: 4041 mAh
+Charging Cycles: 0
+Remaining Charge Time: 4 hours, 25 minutes
+Capacity (Reported by Android): 5000 mAh
+
+<<< Android >>>
+
+Android Version: 15 (Vanilla Ice Cream)
+API Level: 35
+Android Security Patch Level: 2025-07-05
+Rooted Device: No
+Android ID: 946c1b9bf1871b5d
+Build ID: 863C_V2.8_BOE9365_C109_20250625
+Codename: REL
+Fingerprint: Freeski/C109/C109:15/AP3A.241105.008/20250625:user/release-keys
+ID: AP3A.241105.008
+Incremental: 20250625
+Java Runtime Version: Android Runtime 0.9
+Java VM Version: ART 2.1.0
+Java VM Heap Size: 512 MB
+Kernel Architecture: aarch64
+Kernel Version: 5.15.167-android13-8-00017-gb1f32b310a30-ab12826353
+Tags: release-keys
+Type: user
+Google Play Services Version: 25.40.31 (260400-816341114)
+Huawei Mobile Services Version: < Not Present >
+OpenSSL Version: OpenSSL 1.1.1 (compatible; BoringSSL)
+ZLib Version: 1.3.0.1-motley
+ICU CLDR Version: 45.0
+ICU Library Version: 75.1
+ICU Unicode Version: 15.1
+Android Language: English (United States)
+Configured Time Zone: Eastern Daylight Time (UTC-04:00)
+UpTime: 00:26:57
+
+<<< Devices >>>
+
+<< Rear-Facing Camera >>
+Resolution: 8.0 MP (3264 × 2448)
+Focal Length: 3.04 mm
+Focus Modes: infinity, auto, continuous-picture
+Video Stabilization: Not Supported
+Zoom: Supported
+Auto Exposure Locking: Not Supported
+Auto White Balance Locking: Not Supported
+Flash: Supported
+
+<< Front-Facing Camera >>
+Resolution: 5.0 MP (2592 × 1944)
+Focal Length: 3.04 mm
+Focus Modes: fixed, infinity
+Video Stabilization: Not Supported
+Zoom: Not Supported
+Auto Exposure Locking: Not Supported
+Auto White Balance Locking: Not Supported
+Flash: Not Supported
+
+<< Vulkan Device - Mali-G57 >>
+Device Name: Mali-G57
+Device Type: Integrated GPU
+Device UUID: 62-F0-EC-E9-28-B2-4B-90-C4-95-7D-C5-86-BA-20-2C
+Device ID: 000013B5-90910010
+Memory Size: 3817068 KB
+Max 1D Image Size: 16384
+Max 2D Image Size: 16384 x 16384
+Max 3D Image Size: 16384 x 16384 x 16384
+Max Cube Image Size: 16384 x 16384
+Max Image Layers: 1024
+Max Texel Buffer Elements: 268435456
+Max Push Constants Size: 256 bytes
+Max Memory Allocation Count: 16384
+Buffer Image Granularity: 1 bytes
+Max Bound Descriptor Sets: 7
+Max Per-Stage Descriptor Samplers: 500000
+Max Per-Stage Descriptor Uniform Buffers: 500000
+Max Per-Stage Descriptor Storage Buffers: 500000
+Max Per-Stage Descriptor Sampled Images: 500000
+Max Per-Stage Descriptor Storage Images: 500000
+Max Per-Stage Descriptor Input Attachments: 9
+Max Per-Stage Resources: 500000
+Max Descriptor Set Samplers: 500000
+Max Descriptor Set Uniform Buffers: 500000
+Max Descriptor Set Dynamic Uniform Buffers: 32
+Max Descriptor Set Storage Buffers: 500000
+Max Descriptor Set Dynamic Storage Buffers: 32
+Max Descriptor Set Sampled Images: 500000
+Max Descriptor Set Storage Images: 500000
+Max Descriptor Set Input Attachments: 9
+Max Vertex Input Attributes: 32
+Max Vertex Input Bindings: 32
+MaxVertex Input Attribute Offset: 2047
+Max Vertex Input Binding Stride: 2048
+Max Vertex Output Components: 128
+Max Tesselation Generation Level: 64
+Max Tesselation Patch Size: 32
+Max Tesselation Control Per-Vertex Input Components: 128
+Max Tesselation Control Per-Vertex Output Components: 128
+Max Tesselation Control Per-Patch Output Components: 120
+Max Tesselation Control Total Output Components: 4096
+Max Tesselation Evaluation Input Components: 128
+Max Tesselation Evaluation Output Components: 128
+Max Geometry Shader Invocations: 32
+Max Geometry Input Components: 128
+Max Geometry Output Components: 128
+Max Geometry Output Vertices: 256
+Max Geometry Total Output Components: 2048
+Max Fragment Input Components: 128
+Max Fragment Output Attachments: 8
+Max Fragment DualSrc Attachments: 8
+Max Fragment Combined Output Resources: 1000008
+Max Compute Shared Memory Size: 32 KB
+Max Compute Work Group Invocations: 512
+Max Compute Work Group Size: X: 512, Y: 512, Z: 512
+Subpixel Precision Bits: 8
+Subtexel Precision Bits: 8
+Mipmap Precision Bits: 8
+Max Draw Indexed Index Value: 4294967295
+Max Draw Indirect Count: 1
+Max Sampler LOD Bias: 126.000000
+Max Sampler Anisotropy: 16.000000
+Max Viewports: 1
+Max Viewport Size: 16384 x 16384
+Viewport Bounds Range: -32768.000000 ... 32767.000000
+Min Memory Map Alignment: 64 bytes
+Min Texel Buffer Offset Alignment: 64 bytes
+Min Uniform Buffer Offset Alignment: 16 bytes
+Min Storage Buffer Offset Alignment: 64 bytes
+Min / Max Texel Offset: -8 / 7
+Min / Max Texel Gather Offset: -8 / 7
+Min / Max Interpolation Offset: -0.500000 / 0.437500
+Subpixel Interpolation Offset Bits: 4
+Max Framebuffer Size: 16384 x 16384
+Max Framebuffer Layers: 256
+Framebuffer Color Sample Counts: 0x0000000D
+Framebuffer Depth Sample Counts: 0x0000000D
+Framebuffer Stencil Sample Counts: 0x0000000D
+Framebuffer No Attachments Sample Counts: 0x0000001D
+Max Color Attachments: 8
+Sampled Image Color Sample Counts: 0x0000000D
+Sampled Image Integer Sample Counts: 0x0000000D
+Sampled Image Depth Sample Counts: 0x0000000D
+Sampled Image Stencil Sample Counts: 0x0000000D
+Storage Image Sample Counts: 0x00000001
+Max Sample Mask Words: 1
+Timestamp Period: 41.666668 ns
+Discrete Queue Priorities: 2
+Point Size Range: 1.000000 ... 1024.000000
+Line Width Range: 1.000000 ... 4095.937500
+Point Size Granularity: 0.062500
+Line Width Granularity: 0.062500
+Optimal Buffer Copy Offset Alignment: 64 bytes
+Optimal Buffer Copy Row Pitch Alignment: 64 bytes
+Non-Coherent Atom Size: 64 bytes
+Driver Version: 48.0.0
+API Version: 1.3.288
+Vulkan Library: /system/lib64/libvulkan.so
+Alpha To One: Not Supported
+Anisotropic Filtering: Supported
+ASTC LDR Texture Compression: Supported
+BC Texture Compression: Not Supported
+Depth Bias Clamping: Supported
+Depth Bounds Tests: Not Supported
+Depth Clamping: Supported
+Draw Indirect First Instance: Supported
+Dual Source Blend Operations: Supported
+ETC2 and EAC Texture Compression: Supported
+Fragment Stores and Atomics: Supported
+Full Draw Index Uint32: Supported
+Geometry Shader: Supported
+Image Cube Array: Supported
+Independent Blend: Supported
+Inherited Queries: Not Supported
+Large Points: Supported
+Logic Operations: Supported
+Multi-Draw Indirect: Not Supported
+Multi Viewport: Not Supported
+Occlusion Query Precise: Supported
+Pipeline Statistics Query: Not Supported
+Point and Wireframe Fill Modes: Not Supported
+Robust Buffer Access: Supported
+Sample Rate Shading: Supported
+Shader Clip Distance: Not Supported
+Shader Cull Distance: Not Supported
+Shader Float64: Not Supported
+Shader Image Gather Extended: Supported
+Shader Int16: Supported
+Shader Int64: Supported
+Shader Resource Min LOD: Not Supported
+Shader Resource Residency: Not Supported
+Shader Sampled Image Array Dynamic Indexing: Supported
+Shader Storage Buffer Array Dynamic Indexing: Supported
+Shader Storage Image Array Dynamic Indexing: Supported
+Shader Storage Image Extended Formats: Supported
+Shader Storage Image Multisample: Not Supported
+Shader Storage Image Read Without Format: Supported
+Shader Storage Image Write Without Format: Supported
+Shader Tesselation and Geometry Point Size: Not Supported
+Shader Uniform Buffer Array Dynamic Indexing: Supported
+Sparse Binding: Not Supported
+Sparse Residency 2 Samples: Not Supported
+Sparse Residency 4 Samples: Not Supported
+Sparse Residency 8 Samples: Not Supported
+Sparse Residency 16 Samples: Not Supported
+Sparse Residency Aliased: Not Supported
+Sparse Residency Aligned Mip Size: No
+Sparse Residency Buffer: Not Supported
+Sparse Residency Image 2D: Not Supported
+Sparse Residency Image 3D: Not Supported
+Sparse Residency Non-Resident Strict: No
+Sparse Residency Standard 2D Block Shape: No
+Sparse Residency Standard 2D Multisample Block Shape: No
+Sparse Residency Standard 3D Block Shape: No
+Standard Sample Locations: Yes
+Strict Line Rasterization: Yes
+Tesselation Shader: Supported
+Timestamps on All Graphics and Compute Queues: Supported
+Variable Multisample Rate: Not Supported
+Vertex Pipeline Stores and Atomics: Not Supported
+Wide Lines: Supported
+Device Extensions: VK_KHR_incremental_present
+VK_KHR_shared_presentable_image
+VK_EXT_swapchain_maintenance1
+VK_KHR_16bit_storage
+VK_KHR_8bit_storage
+VK_KHR_bind_memory2
+VK_KHR_buffer_device_address
+VK_KHR_create_renderpass2
+VK_KHR_copy_commands2
+VK_KHR_dedicated_allocation
+VK_KHR_depth_stencil_resolve
+VK_KHR_descriptor_update_template
+VK_KHR_device_group
+VK_KHR_driver_properties
+VK_KHR_dynamic_rendering
+VK_EXT_extended_dynamic_state
+VK_EXT_extended_dynamic_state2
+VK_EXT_extended_dynamic_state3
+VK_KHR_external_fence
+VK_KHR_external_fence_fd
+VK_KHR_external_memory
+VK_KHR_external_memory_fd
+VK_KHR_external_semaphore
+VK_KHR_external_semaphore_fd
+VK_KHR_format_feature_flags2
+VK_KHR_get_memory_requirements2
+VK_KHR_global_priority
+VK_KHR_image_format_list
+VK_KHR_imageless_framebuffer
+VK_KHR_maintenance1
+VK_KHR_maintenance2
+VK_KHR_maintenance3
+VK_KHR_maintenance4
+VK_KHR_multiview
+VK_KHR_relaxed_block_layout
+VK_KHR_sampler_mirror_clamp_to_edge
+VK_KHR_sampler_ycbcr_conversion
+VK_KHR_separate_depth_stencil_layouts
+VK_KHR_shader_draw_parameters
+VK_KHR_shader_float16_int8
+VK_KHR_shader_float_controls
+VK_KHR_shader_integer_dot_product
+VK_KHR_shader_non_semantic_info
+VK_KHR_shader_subgroup_extended_types
+VK_KHR_spirv_1_4
+VK_KHR_storage_buffer_storage_class
+VK_KHR_timeline_semaphore
+VK_KHR_uniform_buffer_standard_layout
+VK_KHR_variable_pointers
+VK_KHR_vulkan_memory_model
+VK_KHR_zero_initialize_workgroup_memory
+VK_EXT_astc_decode_mode
+VK_EXT_depth_clamp_zero_one
+VK_EXT_device_address_binding_report
+VK_EXT_device_fault
+VK_EXT_calibrated_timestamps
+VK_EXT_debug_marker
+VK_EXT_descriptor_indexing
+VK_EXT_fragment_density_map
+VK_EXT_fragment_density_map2
+VK_EXT_global_priority
+VK_EXT_global_priority_query
+VK_EXT_host_query_reset
+VK_EXT_image_robustness
+VK_EXT_image_2d_view_of_3d
+VK_EXT_index_type_uint8
+VK_EXT_inline_uniform_block
+VK_EXT_line_rasterization
+VK_EXT_load_store_op_none
+VK_EXT_pipeline_creation_cache_control
+VK_EXT_pipeline_creation_feedback
+VK_EXT_pipeline_robustness
+VK_EXT_primitives_generated_query
+VK_EXT_primitive_topology_list_restart
+VK_EXT_private_data
+VK_EXT_provoking_vertex
+VK_EXT_queue_family_foreign
+VK_EXT_shader_image_atomic_int64
+VK_KHR_shader_atomic_int64
+VK_EXT_device_memory_report
+VK_ARM_rasterization_order_attachment_access
+VK_EXT_rasterization_order_attachment_access
+VK_EXT_scalar_block_layout
+VK_EXT_separate_stencil_usage
+VK_EXT_subgroup_size_control
+VK_EXT_texture_compression_astc_hdr
+VK_EXT_shader_subgroup_ballot
+VK_EXT_shader_subgroup_vote
+VK_EXT_texel_buffer_alignment
+VK_EXT_transform_feedback
+VK_EXT_external_memory_dma_buf
+VK_EXT_image_drm_format_modifier
+VK_EXT_custom_border_color
+VK_EXT_border_color_swizzle
+VK_ANDROID_external_memory_android_hardware_buffer
+VK_KHR_swapchain
+VK_EXT_multisampled_render_to_single_sampled
+VK_EXT_image_compression_control
+VK_ARM_shader_core_builtins
+VK_KHR_shader_terminate_invocation
+VK_EXT_shader_demote_to_helper_invocation
+VK_EXT_subpass_merge_feedback
+VK_EXT_rgba10x6_formats
+VK_EXT_4444_formats
+VK_KHR_synchronization2
+VK_EXT_frame_boundary
+VK_EXT_pipeline_protected_access
+VK_EXT_shader_tile_image
+VK_EXT_legacy_dithering
+VK_EXT_external_memory_acquire_unmodified
+VK_GOOGLE_display_timing
+VK_EXT_tooling_info
+VK_ARM_shader_core_properties
+VK_EXT_depth_clip_enable
+Instance Extensions: VK_KHR_surface
+VK_KHR_surface_protected_capabilities
+VK_KHR_android_surface
+VK_EXT_swapchain_colorspace
+VK_KHR_get_surface_capabilities2
+VK_GOOGLE_surfaceless_query
+VK_EXT_surface_maintenance1
+VK_KHR_device_group_creation
+VK_KHR_external_fence_capabilities
+VK_KHR_external_memory_capabilities
+VK_KHR_external_semaphore_capabilities
+VK_KHR_get_physical_device_properties2
+VK_EXT_debug_report
+VK_EXT_debug_utils
+
+No USB devices found.
+No OpenCL devices found.
+No CUDA devices found.
+No PCI devices found.
+
+<<< Thermal >>>
+
+Battery: 30.4°C
+
+<<< Sensors >>>
+
+Msa 3-axis Accelerometer: 
+Msa 3-axis Accelerometer uncalibrated: 
+
+<<< Apps >>>
+
+AIDA64: com.finalwire.aida64(v2.12)
+Firefox: org.mozilla.firefox(v144.0)
+
+<<< Codecs >>>
+
+c2.android.aac.decoder: audio/mp4a-latm
+OMX.google.aac.decoder: audio/mp4a-latm
+c2.android.aac.encoder: audio/mp4a-latm
+OMX.google.aac.encoder: audio/mp4a-latm
+c2.android.amrnb.decoder: audio/3gpp
+OMX.google.amrnb.decoder: audio/3gpp
+c2.android.amrnb.encoder: audio/3gpp
+OMX.google.amrnb.encoder: audio/3gpp
+c2.android.amrwb.decoder: audio/amr-wb
+OMX.google.amrwb.decoder: audio/amr-wb
+c2.android.amrwb.encoder: audio/amr-wb
+OMX.google.amrwb.encoder: audio/amr-wb
+c2.android.flac.decoder: audio/flac
+OMX.google.flac.decoder: audio/flac
+c2.android.flac.encoder: audio/flac
+OMX.google.flac.encoder: audio/flac
+c2.android.g711.alaw.decoder: audio/g711-alaw
+OMX.google.g711.alaw.decoder: audio/g711-alaw
+c2.android.g711.mlaw.decoder: audio/g711-mlaw
+OMX.google.g711.mlaw.decoder: audio/g711-mlaw
+c2.android.mp3.decoder: audio/mpeg
+OMX.google.mp3.decoder: audio/mpeg
+c2.android.opus.decoder: audio/opus
+OMX.google.opus.decoder: audio/opus
+c2.android.opus.encoder: audio/opus
+c2.android.raw.decoder: audio/raw
+OMX.google.raw.decoder: audio/raw
+c2.android.vorbis.decoder: audio/vorbis
+OMX.google.vorbis.decoder: audio/vorbis
+c2.allwinner.avc.decoder: video/avc
+c2.allwinner.avc.encoder: video/avc
+c2.allwinner.h263.decoder: video/3gpp
+c2.allwinner.hevc.decoder: video/hevc
+c2.allwinner.mjpeg.decoder: video/x-motion-jpeg
+c2.allwinner.mpeg1.decoder: video/mpeg1
+c2.allwinner.mpeg2.decoder: video/mpeg2
+c2.allwinner.mpeg4.decoder: video/mp4v-es
+c2.allwinner.s263.decoder: video/flv1
+c2.allwinner.vp8.decoder: video/x-vnd.on2.vp8
+c2.allwinner.vp9.decoder: video/x-vnd.on2.vp9
+c2.allwinner.xvid.decoder: video/xvid
+c2.android.av1-dav1d.decoder: video/av01
+c2.android.av1.encoder: video/av01
+c2.android.avc.decoder: video/avc
+OMX.google.h264.decoder: video/avc
+c2.android.avc.encoder: video/avc
+OMX.google.h264.encoder: video/avc
+c2.android.h263.decoder: video/3gpp
+OMX.google.h263.decoder: video/3gpp
+c2.android.h263.encoder: video/3gpp
+OMX.google.h263.encoder: video/3gpp
+c2.android.hevc.decoder: video/hevc
+OMX.google.hevc.decoder: video/hevc
+c2.android.mpeg4.decoder: video/mp4v-es
+OMX.google.mpeg4.decoder: video/mp4v-es
+c2.android.mpeg4.encoder: video/mp4v-es
+OMX.google.mpeg4.encoder: video/mp4v-es
+c2.android.vp8.decoder: video/x-vnd.on2.vp8
+OMX.google.vp8.decoder: video/x-vnd.on2.vp8
+c2.android.vp8.encoder: video/x-vnd.on2.vp8
+OMX.google.vp8.encoder: video/x-vnd.on2.vp8
+c2.android.vp9.decoder: video/x-vnd.on2.vp9
+OMX.google.vp9.decoder: video/x-vnd.on2.vp9
+c2.android.av1.decoder: video/av01
+
+<<< Directories >>>
+
+Data: /data
+Root: /system
+Java Home: /apex/com.android.art
+Download/Cache Content: /data/cache
+
+<< External Storage >>
+Primary External Storage: /storage/emulated/0
+External Files #1: /storage/emulated/0/Android/data/com.finalwire.aida64/files
+Alarms: /storage/emulated/0/Alarms
+DCIM: /storage/emulated/0/DCIM
+Documents: /storage/emulated/0/Documents
+Downloads: /storage/emulated/0/Download
+Movies: /storage/emulated/0/Movies
+Music: /storage/emulated/0/Music
+Notifications: /storage/emulated/0/Notifications
+Pictures: /storage/emulated/0/Pictures
+Podcasts: /storage/emulated/0/Podcasts
+Ringtones: /storage/emulated/0/Ringtones
+
+<< Mount Points >>
+/: Device: /dev/block/dm-20
+File System: erofs
+Read-Only
+/dev: Device: tmpfs
+File System: tmpfs
+Read-Write
+/dev/pts: Device: devpts
+File System: devpts
+Read-Write
+/dev/blkio: Device: none
+File System: cgroup
+Read-Write
+/dev/cpuctl: Device: none
+File System: cgroup
+Read-Write
+/dev/cpuset: Device: none
+File System: cgroup
+Read-Write
+/dev/memcg: Device: none
+File System: cgroup
+Read-Write
+/dev/binderfs: Device: binder
+File System: binder
+Read-Write
+/dev/usb-ffs/adb: Device: adb
+File System: functionfs
+Read-Write
+/dev/usb-ffs/mtp: Device: mtp
+File System: functionfs
+Read-Write
+/dev/usb-ffs/ptp: Device: ptp
+File System: functionfs
+Read-Write
+/proc: Device: proc
+File System: proc
+Read-Write
+/sys: Device: sysfs
+File System: sysfs
+Read-Write
+/sys/fs/selinux: Device: selinuxfs
+File System: selinuxfs
+Read-Write
+/sys/fs/cgroup: Device: none
+File System: cgroup2
+Read-Write
+/sys/kernel/tracing: Device: tracefs
+File System: tracefs
+Read-Write
+/sys/fs/fuse/connections: Device: none
+File System: fusectl
+Read-Write
+/sys/fs/bpf: Device: bpf
+File System: bpf
+Read-Write
+/sys/fs/pstore: Device: pstore
+File System: pstore
+Read-Write
+/mnt: Device: tmpfs
+File System: tmpfs
+Read-Write
+/mnt/installer: Device: tmpfs
+File System: tmpfs
+Read-Write
+/mnt/installer/0/emulated: Device: /dev/fuse
+File System: fuse
+Read-Write
+/mnt/installer/0/emulated/0/Android/data: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/installer/0/emulated/0/Android/obb: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/androidwritable: Device: tmpfs
+File System: tmpfs
+Read-Write
+/mnt/androidwritable/0/emulated: Device: /dev/fuse
+File System: fuse
+Read-Write
+/mnt/androidwritable/0/emulated/0/Android/data: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/androidwritable/0/emulated/0/Android/obb: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/user/0/emulated: Device: /dev/fuse
+File System: fuse
+Read-Write
+/mnt/user/0/emulated/0/Android/data: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/user/0/emulated/0/Android/obb: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/mnt/pass_through/0/emulated: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/metadata: Device: /dev/block/by-name/metadata
+File System: ext4
+Read-Write
+/system_dlkm: Device: /dev/block/dm-11
+File System: ext4
+Read-Only
+/vendor: Device: /dev/block/dm-15
+File System: erofs
+Read-Only
+/vendor_dlkm: Device: /dev/block/dm-19
+File System: erofs
+Read-Only
+/product: Device: /dev/block/dm-3
+File System: erofs
+Read-Only
+/treadahead: Device: /dev/block/by-name/treadahead
+File System: ext4
+Read-Write
+/oem: Device: /dev/block/by-name/media_data
+File System: vfat
+Read-Only
+/apex: Device: tmpfs
+File System: tmpfs
+Read-Write
+/apex/com.android.virt@2: Device: /dev/block/loop4
+File System: ext4
+Read-Only
+/apex/com.android.virt: Device: /dev/block/loop4
+File System: ext4
+Read-Only
+/apex/com.android.btservices@352090000: Device: /dev/block/loop5
+File System: ext4
+Read-Only
+/apex/com.android.btservices: Device: /dev/block/loop5
+File System: ext4
+Read-Only
+/apex/com.android.nfcservices@352090000: Device: /dev/block/loop6
+File System: ext4
+Read-Only
+/apex/com.android.nfcservices: Device: /dev/block/loop6
+File System: ext4
+Read-Only
+/apex/com.android.rkpd@352090000: Device: /dev/block/loop10
+File System: ext4
+Read-Only
+/apex/com.android.apex.cts.shim@1: Device: /dev/block/loop7
+File System: ext4
+Read-Only
+/apex/com.android.rkpd: Device: /dev/block/loop10
+File System: ext4
+Read-Only
+/apex/com.android.apex.cts.shim: Device: /dev/block/loop7
+File System: ext4
+Read-Only
+/apex/com.android.tzdata@351010000: Device: /dev/block/loop8
+File System: ext4
+Read-Only
+/apex/com.android.tzdata: Device: /dev/block/loop8
+File System: ext4
+Read-Only
+/apex/com.android.i18n@1: Device: /dev/block/loop16
+File System: ext4
+Read-Only
+/apex/com.android.i18n: Device: /dev/block/loop16
+File System: ext4
+Read-Only
+/apex/com.android.devicelock@1: Device: /dev/block/loop12
+File System: ext4
+Read-Only
+/apex/com.android.devicelock: Device: /dev/block/loop12
+File System: ext4
+Read-Only
+/apex/com.android.runtime@1: Device: /dev/block/loop13
+File System: ext4
+Read-Only
+/apex/com.android.runtime: Device: /dev/block/loop13
+File System: ext4
+Read-Only
+/apex/com.android.vndk.v33@1: Device: /dev/block/loop19
+File System: ext4
+Read-Only
+/apex/com.android.vndk.v33: Device: /dev/block/loop19
+File System: ext4
+Read-Only
+/apex/com.android.wifi@351310040: Device: /dev/block/dm-51
+File System: ext4
+Read-Only
+/apex/com.android.wifi: Device: /dev/block/dm-51
+File System: ext4
+Read-Only
+/apex/com.google.mainline.primary.libs@351165000: Device: /dev/block/loop14
+File System: ext4
+Read-Only
+/apex/com.android.media@351311020: Device: /dev/block/dm-41
+File System: ext4
+Read-Only
+/apex/com.android.media: Device: /dev/block/dm-41
+File System: ext4
+Read-Only
+/apex/com.android.profiling@352090000: Device: /dev/block/dm-54
+File System: ext4
+Read-Only
+/apex/com.android.adbd@351010000: Device: /dev/block/dm-49
+File System: ext4
+Read-Only
+/apex/com.android.profiling: Device: /dev/block/dm-54
+File System: ext4
+Read-Only
+/apex/com.android.adbd: Device: /dev/block/dm-49
+File System: ext4
+Read-Only
+/apex/com.android.media.swcodec@351311020: Device: /dev/block/dm-50
+File System: ext4
+Read-Only
+/apex/com.android.media.swcodec: Device: /dev/block/dm-50
+File System: ext4
+Read-Only
+/apex/com.android.mediaprovider@351311140: Device: /dev/block/dm-47
+File System: ext4
+Read-Only
+/apex/com.android.mediaprovider: Device: /dev/block/dm-47
+File System: ext4
+Read-Only
+/apex/com.android.configinfrastructure@351010000: Device: /dev/block/dm-30
+File System: ext4
+Read-Only
+/apex/com.android.cellbroadcast@351310040: Device: /dev/block/dm-35
+File System: ext4
+Read-Only
+/apex/com.android.configinfrastructure: Device: /dev/block/dm-30
+File System: ext4
+Read-Only
+/apex/com.android.cellbroadcast: Device: /dev/block/dm-35
+File System: ext4
+Read-Only
+/apex/com.android.appsearch@351311040: Device: /dev/block/dm-53
+File System: ext4
+Read-Only
+/apex/com.android.neuralnetworks@351010040: Device: /dev/block/dm-34
+File System: ext4
+Read-Only
+/apex/com.android.adservices@351312060: Device: /dev/block/dm-37
+File System: ext4
+Read-Only
+/apex/com.android.extservices@351312063: Device: /dev/block/dm-32
+File System: ext4
+Read-Only
+/apex/com.android.appsearch: Device: /dev/block/dm-53
+File System: ext4
+Read-Only
+/apex/com.android.extservices: Device: /dev/block/dm-32
+File System: ext4
+Read-Only
+/apex/com.android.healthfitness@351314220: Device: /dev/block/dm-29
+File System: ext4
+Read-Only
+/apex/com.android.neuralnetworks: Device: /dev/block/dm-34
+File System: ext4
+Read-Only
+/apex/com.android.adservices: Device: /dev/block/dm-37
+File System: ext4
+Read-Only
+/apex/com.android.healthfitness: Device: /dev/block/dm-29
+File System: ext4
+Read-Only
+/apex/com.android.resolv@351111040: Device: /dev/block/dm-25
+File System: ext4
+Read-Only
+/apex/com.android.os.statsd@351311000: Device: /dev/block/dm-40
+File System: ext4
+Read-Only
+/apex/com.android.permission@351310020: Device: /dev/block/dm-26
+File System: ext4
+Read-Only
+/apex/com.android.resolv: Device: /dev/block/dm-25
+File System: ext4
+Read-Only
+/apex/com.android.os.statsd: Device: /dev/block/dm-40
+File System: ext4
+Read-Only
+/apex/com.android.conscrypt@351110000: Device: /dev/block/dm-45
+File System: ext4
+Read-Only
+/apex/com.android.permission: Device: /dev/block/dm-26
+File System: ext4
+Read-Only
+/apex/com.android.art@351310060: Device: /dev/block/dm-33
+File System: ext4
+Read-Only
+/apex/com.android.conscrypt: Device: /dev/block/dm-45
+File System: ext4
+Read-Only
+/apex/com.android.art: Device: /dev/block/dm-33
+File System: ext4
+Read-Only
+/apex/com.android.uwb@352090000: Device: /dev/block/dm-31
+File System: ext4
+Read-Only
+/apex/com.android.sdkext@351110000: Device: /dev/block/dm-23
+File System: ext4
+Read-Only
+/apex/com.android.sdkext: Device: /dev/block/dm-23
+File System: ext4
+Read-Only
+/apex/com.android.uwb: Device: /dev/block/dm-31
+File System: ext4
+Read-Only
+/apex/com.android.ipsec@351310000: Device: /dev/block/dm-28
+File System: ext4
+Read-Only
+/apex/com.android.ipsec: Device: /dev/block/dm-28
+File System: ext4
+Read-Only
+/apex/com.android.ondevicepersonalization@351313000: Device: /dev/block/dm-27
+File System: ext4
+Read-Only
+/apex/com.android.tethering@351314140: Device: /dev/block/dm-22
+File System: ext4
+Read-Only
+/apex/com.android.ondevicepersonalization: Device: /dev/block/dm-27
+File System: ext4
+Read-Only
+/apex/com.android.tethering: Device: /dev/block/dm-22
+File System: ext4
+Read-Only
+/apex/com.android.scheduling@351010000: Device: /dev/block/dm-24
+File System: ext4
+Read-Only
+/apex/com.android.scheduling: Device: /dev/block/dm-24
+File System: ext4
+Read-Only
+/apex/apex-info-list.xml: Device: tmpfs
+File System: tmpfs
+Read-Write
+/bootstrap-apex: Device: tmpfs
+File System: tmpfs
+Read-Write
+/bootstrap-apex/com.android.tzdata@351010000: Device: /dev/block/loop3
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.vndk.v33@1: Device: /dev/block/loop0
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.i18n@1: Device: /dev/block/loop2
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.runtime@1: Device: /dev/block/loop1
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.tzdata: Device: /dev/block/loop3
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.vndk.v33: Device: /dev/block/loop0
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.i18n: Device: /dev/block/loop2
+File System: ext4
+Read-Only
+/bootstrap-apex/com.android.runtime: Device: /dev/block/loop1
+File System: ext4
+Read-Only
+/bootstrap-apex/apex-info-list.xml: Device: tmpfs
+File System: tmpfs
+Read-Write
+/linkerconfig: Device: tmpfs
+File System: tmpfs
+Read-Write
+/linkerconfig: Device: tmpfs
+File System: tmpfs
+Read-Write
+/tmp: Device: tmpfs
+File System: tmpfs
+Read-Write
+/config: Device: none
+File System: configfs
+Read-Write
+/data: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/user/0: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data_mirror/data_ce/null: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/data_ce/null/0: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/data_de/null: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/misc_ce/null: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/misc_de/null: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/storage_area: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/cur_profiles: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data_mirror/ref_profiles: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/storage: Device: tmpfs
+File System: tmpfs
+Read-Write
+/storage/emulated: Device: /dev/fuse
+File System: fuse
+Read-Write
+/storage/emulated/0/Android/data: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/storage/emulated/0/Android/obb: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/data: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data/user: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data/user_de: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data/user_de/0/com.finalwire.aida64: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/data/com.finalwire.aida64: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/user_de/0/com.google.android.gms: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/data/com.google.android.gms: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/misc/profiles/cur: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data/misc/profiles/ref: Device: tmpfs
+File System: tmpfs
+Read-Write
+/data/misc/profiles/cur/0/com.finalwire.aida64: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+/data/misc/profiles/ref/com.finalwire.aida64: Device: /dev/block/dm-56
+File System: f2fs
+Read-Write
+
+<<< System Files >>>
+
+Buddy Info: /proc/buddyinfo
+Build Properties: /system/build.prop
+Character & Block Devices: /proc/devices
+Command Line: /proc/cmdline
+CPU Information: /proc/cpuinfo
+Execution Domains: /proc/execdomains
+File Systems: /proc/filesystems
+Frame Buffer Devices: /proc/fb
+Hosts: /system/etc/hosts
+Interrupts: /proc/interrupts
+Input Devices: /proc/bus/input/devices
+I/O Ports: /proc/ioports
+Kernel Version: /proc/version
+Load Average: /proc/loadavg
+Locked Files: /proc/locks
+Memory Information: /proc/meminfo
+Memory Map: /proc/iomem
+Misc Drivers: /proc/misc
+Partitions: /proc/partitions
+PCI Devices: /proc/bus/pci/devices
+Slab Info: /proc/slabinfo
+Statistics: /proc/stat
+Swap Spaces: /proc/swaps
+
+<<< /proc/cpuinfo >>>
+
+processor	: 0
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 1
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 2
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 3
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 4
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 5
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 6
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+processor	: 7
+BogoMIPS	: 48.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x2
+CPU part	: 0xd05
+CPU revision	: 0
+
+
+<<< /proc/meminfo >>>
+
+MemTotal:        3817068 kB
+MemFree:           58544 kB
+MemAvailable:    1129004 kB
+Buffers:            1576 kB
+Cached:          1241208 kB
+SwapCached:        35664 kB
+Active:           685840 kB
+Inactive:        1359136 kB
+Active(anon):     227608 kB
+Inactive(anon):   742744 kB
+Active(file):     458232 kB
+Inactive(file):   616392 kB
+Unevictable:      129524 kB
+Mlocked:          127044 kB
+SwapTotal:       2862796 kB
+SwapFree:        1172728 kB
+Dirty:              8668 kB
+Writeback:             0 kB
+AnonPages:        922676 kB
+Mapped:           882092 kB
+Shmem:             43500 kB
+KReclaimable:     135020 kB
+Slab:             294492 kB
+SReclaimable:     103340 kB
+SUnreclaim:       191152 kB
+KernelStack:       55580 kB
+ShadowCallStack:   13940 kB
+PageTables:        85416 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     4771328 kB
+Committed_AS:   206295364 kB
+VmallocTotal:   259653632 kB
+VmallocUsed:      125200 kB
+VmallocChunk:          0 kB
+Percpu:             9280 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:           8192 kB
+CmaFree:               0 kB
+DmaHeap:          114088 kB
+
+<<< Comment >>>
+
+Enter your comment here:
+
